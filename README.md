@@ -9,7 +9,7 @@ I turn searches into traffic & clicks into conversions.I specialize in **SEO, Go
 
 ## 👩‍💻 About Me
 
-Passionate about turning clicks into conversions and data into growth. With a passion for SEO, Google Ads, and analytics, I optimised data for decision-making, creativity for engagement, and strategy for execution. 
+Passionate about turning clicks into conversions and data into growth. With a passion for **SEO, Google Ads, and analytics**, I optimised data for decision-making, creativity for engagement, and strategy for execution. 
 
 🔹 Crafting strategies that turn search queries into conversions.
 
