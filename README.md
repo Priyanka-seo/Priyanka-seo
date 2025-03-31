@@ -17,7 +17,7 @@ Passionate about turning clicks into conversions and data into growth. With a pa
 
 🔹 Building engaging content that resonates with the audience.
 
-🎯 Always experimenting, learning, and mastering algorithms and analytics to accelerate success.
+🎯 **Always experimenting, learning, and mastering algorithms and analytics to accelerate success**.
 
 
 ---
