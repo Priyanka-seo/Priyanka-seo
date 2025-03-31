@@ -7,7 +7,7 @@ I turn searches into traffic & clicks into conversions.I specialize in **SEO, Go
 ---
 
 
-## 🔥 About Me
+## 👩‍💻 About Me
 - 🎯 **SEO & Performance Marketing Expert** – Boosting rankings & conversions through strategic optimization.
 - 🔍 **Data Analytics Enthusiast** – Learning **SQL & Excel** to derive deeper marketing insights.
 - 🚀 **Growth-Focused** – Passionate about automation, A/B testing & improving ROI.
