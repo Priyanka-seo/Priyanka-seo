@@ -40,7 +40,7 @@ Passionate about turning clicks into conversions and data into growth. With a pa
 ---
 
 ## 🎯 Let's Connect!
-📧 **Email:** tpriyankadigi@gamil.com
+📧 **Email:** tpriyankadigi@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/priyankasingh91/(#)  
 
