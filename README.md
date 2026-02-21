@@ -10,8 +10,9 @@
 
 ## 👩‍💼 About Me
 
-<img align="right" width="350"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="800" alt="Coding Animation"/>
+</p>
 
 <br/>
 
