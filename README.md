@@ -10,9 +10,8 @@
 
 ## 👩‍💼 About Me
 
-<p>
-  <img src="https://i.pinimg.com/originals/9c/1e/b6/9c1eb6d507d16fd73b48635605459d1f.gif" width="800" alt="Coding Animation"/>
-</p>
+<img align="right" width="400" alt="SEO Typing Animation" 
+src="https://i.pinimg.com/originals/9c/1e/b6/9c1eb6d507d16fd73b48635605459d1f.gif">
 
 <br/>
 
