@@ -10,8 +10,8 @@
 
 ## 👩‍💼 About Me
 
-<img align="right" width="400" alt="Developer Animation"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" alt="Workspace Animation"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <br/>
 
