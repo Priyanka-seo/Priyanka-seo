@@ -10,9 +10,8 @@
 
 ## 👩‍💼 About Me
 
-<img align="right" 
-     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&background=00000000&width=400&lines=Technical+SEO+Specialist;WordPress+SEO+Expert;On-Page+%26+Technical+Optimization;Organic+Growth+Strategist" 
-     alt="Typing Animation" />
+<img align="right" width="400" alt="Coding Animation"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
 <br/>
 
