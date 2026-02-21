@@ -10,8 +10,8 @@
 
 ## 👩‍💼 About Me
 
-<p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="800" alt="Coding Animation"/>
+<p>
+  <img src="https://i.pinimg.com/originals/9c/1e/b6/9c1eb6d507d16fd73b48635605459d1f.gif" width="800" alt="Coding Animation"/>
 </p>
 
 <br/>
