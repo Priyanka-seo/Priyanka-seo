@@ -10,8 +10,8 @@
 
 ## 👩‍💼 About Me
 
-<img align="right" width="400" alt="Coding Animation"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
+<img align="right" width="400" alt="Developer Animation"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <br/>
 
