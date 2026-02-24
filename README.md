@@ -15,8 +15,6 @@
 </h3>
 
 
-<br/>
-
 ## 👩‍💼 About Me
 
 <img align="right" width="400" alt="Workspace Animation"
