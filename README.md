@@ -12,7 +12,7 @@
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=400&color=1F4E79&center=true&random=false&width=900&lines=Digital+Marketing+Strategist;On+Page+%2F+Off+Page+Optimization+%7C+Technical+SEO+%7C+Link+Building;Google+Algorithm+Updates+%7C+Analytics;HTML+%7C+CSS+%7C+JavaScript" />
-</h3>>
+</h3>
 
 
 <br/>
