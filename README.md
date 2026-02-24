@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=50&duration=4000&color=1F4E79&lines=Hi+There!+👋;I'm+Priyanka+Singh;SEO+Executive+%7C+Technical+SEO;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=50&duration=4000&color=1F4E79&lines=Hi+There!+👋;I'm+Priyanka+Singh;SEO+Executive;" />
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=7000&pause=1500&color=4440FF&center=true&random=false&width=1000&lines=Digital+Marketing+Strategist+%7C+SEO+Specialist;On+Page+%2F+Off+Page+Optimization+%7C+Technical+SEO+%7C+Link+Building;Google+Algorithm+Updates+%7C+Analytics;Basic+HTML+%7C+CSS+%7C+JavaScript" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=7000&pause=1500&color=0F766E&center=true&random=false&width=1000&lines=Digital+Marketing+Strategist+%7C+SEO+Specialist;On+Page+%2F+Off+Page+Optimization+%7C+Technical+SEO+%7C+Link+Building;Google+Algorithm+Updates+%7C+Analytics;Basic+HTML+%7C+CSS+%7C+JavaScript" />
 </h3>
 
 <br/>
