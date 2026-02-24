@@ -19,7 +19,6 @@
 
 <img align="right" width="400" alt="Workspace Animation"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-<br/>
 
 ### ✨ My Journey
 
