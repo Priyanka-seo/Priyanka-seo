@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=50&duration=4000&color=1F4E79&lines=Hi+There!+👋;I'm+Priyanka+Singh;SEO+Specialist+%7C+Technical+SEO+Expert;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=50&duration=4000&color=1F4E79&lines=Hi+There!+👋;I'm+Priyanka+Singh;SEO+Executive+%7C+Technical+SEO;" />
 </h1>
 
 <h3 align="center">
