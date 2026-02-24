@@ -1,3 +1,11 @@
+<p align="Right">
+  <img src="https://img.shields.io/badge/SEO-Executive-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical-SEO-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/On--Page-Optimization-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Off--Page-Strategy-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local-SEO-Strategy-DC2626?style=for-the-badge" />
+</p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Priyanka+Singh!;" />
 </h1>
