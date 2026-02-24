@@ -22,7 +22,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ### ✨ My Journey
 
-I’ve been passionate about **Digital Marketing and Search Engine Optimization (SEO)**, focusing on helping businesses grow through Metric-based strategies.
+I’ve been passionate about **Digital Marketing and Search Engine Optimization (SEO)**, focusing on businesses organic grow through Metric-based strategies.
 
 Starting my journey in SEO, I developed experience in:
 
