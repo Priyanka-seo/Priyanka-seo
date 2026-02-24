@@ -1,9 +1,9 @@
 <p align="Right">
-  <img src="https://img.shields.io/badge/SEO-Executive-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-Experience-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical-SEO-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/On--Page-Optimization-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Off--Page-Strategy-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Local-SEO-Strategy-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local-SEO-Strategy-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <h1 align="center">
