@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=7000&pause=1500&color=2C3E50&center=true&random=false&width=1000&lines=Digital+Marketing+Strategist+%7C+SEO+Executive;On+Page+%2F+Off+Page+Optimization+%7C+Technical+SEO+Optimization+%7C+Link+Building+%7C+Analytics;Basic+HTML+%7C+CSS+%7C+JavaScript" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=7000&pause=1500&color=1F4E79&center=true&random=false&width=1000&lines=Digital+Marketing+Strategist+%7COn+Page+%2F+Off+Page+Optimization+%7C+Technical+SEO+Optimization+%7C+Link+Building+%7C+Analytics;Basic+HTML+%7C+CSS+%7C+JavaScript" />
 </h3>
 
 <br/>
