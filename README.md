@@ -1,4 +1,4 @@
-<p align="Right">
+<p align="Center">
   <img src="https://img.shields.io/badge/SEO-Experience-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical-SEO-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/On--Page-Optimization-F59E0B?style=for-the-badge" />
