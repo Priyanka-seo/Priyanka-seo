@@ -49,6 +49,8 @@ SEO Strategy | Organic Traffic Growth | Lead Generation | SERP Ranking
 Work Done | Description | Detailed Work link |
 |---------|------|-------------|
 |3RI Technologies |            | https://github.com/Priyanka-seo/3RI-Technologies |
+|Site Architecture & Navigation Audit|                   | https://github.com/Priyanka-seo/Site-Architecture-Navigation-Audit|
+|Keyword Research|                      |https://github.com/Priyanka-seo/Keyword-Ranking|
 
 
 
