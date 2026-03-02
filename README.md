@@ -44,6 +44,14 @@ SEO Strategy | Organic Traffic Growth | Lead Generation | SERP Ranking
 
 ## 🔎 What I Do  
 
+## 📂 My Work Portfolio & Results
+
+Work Done | Description | Detailed Work link |
+|---------|------|-------------|
+|3RI Technologies |            | https://github.com/Priyanka-seo/3RI-Technologies |
+
+
+
 ### 📈 SEO & Digital Marketing  
 
 As an SEO Specialist, I focus on driving organic growth and improving search visibility through strategic optimization:
